@@ -11,4 +11,4 @@ the output file will be in the directory your .cpp files are in
 for the no optional flags command is : ./volimage <imageBase>
 for example : ./volimage brain_mri_raws/MRI
 
-Uni was frustrating but it helped me get a job
+from online to desktop now
